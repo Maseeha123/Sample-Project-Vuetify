@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vuetify-meetup
 
 > A dev meetup application developed using vue, vuetify and firebase as backend
@@ -20,6 +21,9 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Sample-Project-Vuetify
+>>>>>>> facd1a27fc39383a8af8b5f3dd430da1bdbfd6a2
 =======
 # Sample-Project-Vuetify
 >>>>>>> facd1a27fc39383a8af8b5f3dd430da1bdbfd6a2
